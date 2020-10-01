@@ -1,0 +1,6 @@
+framework module Pods_fixerTests {
+  umbrella header "Pods-fixerTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
